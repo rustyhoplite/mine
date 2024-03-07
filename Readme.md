@@ -1,5 +1,5 @@
 Variant 2
-Izhko Dariia
+Izhko Dariia (Іжко Дарія)
 
 Постановка задачі
 
