@@ -1,11 +1,12 @@
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.FileReader;
 import java.util.ArrayList;
 
 public class project {
 
     public static void main(String[] args) throws Exception {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String fileName = "/home/rusty/input.txt";
+        BufferedReader reader = new BufferedReader(new FileReader(fileName));
         String line;
         ArrayList<Integer> numbers = new ArrayList<>();
 
